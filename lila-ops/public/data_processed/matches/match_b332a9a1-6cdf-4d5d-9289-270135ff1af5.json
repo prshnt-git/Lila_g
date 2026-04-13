@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "match_id": "b332a9a1-6cdf-4d5d-9289-270135ff1af5",
+    "raw_match_id": "b332a9a1-6cdf-4d5d-9289-270135ff1af5.nakama-0",
+    "map": "AmbroseValley",
+    "dates": [
+      "2026-02-13"
+    ],
+    "duration_sec": 0.281,
+    "players": 1,
+    "human_players": 1,
+    "bot_players": 0,
+    "events": 53,
+    "engagement": 53.0,
+    "combat_intensity": 4.0,
+    "loot_ratio": 0.1321,
+    "quality_score": 3,
+    "quality_tier": "playable",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor"
+    ]
+  },
+  "players": [
+    {
+      "id": "23f4ebd6-389f-4659-a135-f80b419475cc",
+      "type": "human",
+      "path": [
+        {
+          "time_sec": 0.0,
+          "position": {
+            "x": 683.05,
+            "y": 238.18
+          }
+        },
+        {
+          "time_sec": 0.204,
+          "position": {
+            "x": 506.45,
+            "y": 506.7
+          }
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 683.05,
+        "y": 238.18
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.02,
+      "position": {
+        "x": 686.48,
+        "y": 248.16
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.025,
+      "position": {
+        "x": 683.81,
+        "y": 277.28
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.03,
+      "position": {
+        "x": 662.07,
+        "y": 306.76
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.035,
+      "position": {
+        "x": 637.46,
+        "y": 334.17
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.04,
+      "position": {
+        "x": 625.78,
+        "y": 347.52
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.045,
+      "position": {
+        "x": 616.55,
+        "y": 377.39
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.05,
+      "position": {
+        "x": 606.9,
+        "y": 384.77
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "kill_bot",
+      "time_sec": 0.051,
+      "position": {
+        "x": 606.14,
+        "y": 382.7
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.055,
+      "position": {
+        "x": 604.22,
+        "y": 393.69
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.056,
+      "position": {
+        "x": 604.13,
+        "y": 392.2
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.058,
+      "position": {
+        "x": 604.13,
+        "y": 392.2
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.06,
+      "position": {
+        "x": 602.24,
+        "y": 397.97
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.065,
+      "position": {
+        "x": 582.99,
+        "y": 407.88
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.075,
+      "position": {
+        "x": 591.1,
+        "y": 400.8
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.078,
+      "position": {
+        "x": 590.87,
+        "y": 400.58
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.08,
+      "position": {
+        "x": 590.47,
+        "y": 395.02
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.084,
+      "position": {
+        "x": 598.35,
+        "y": 411.91
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.085,
+      "position": {
+        "x": 598.35,
+        "y": 411.91
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.086,
+      "position": {
+        "x": 598.35,
+        "y": 411.91
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.09,
+      "position": {
+        "x": 598.15,
+        "y": 435.27
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.095,
+      "position": {
+        "x": 574.59,
+        "y": 459.95
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.1,
+      "position": {
+        "x": 557.28,
+        "y": 480.22
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.105,
+      "position": {
+        "x": 558.49,
+        "y": 477.75
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.11,
+      "position": {
+        "x": 556.87,
+        "y": 484.08
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.135,
+      "position": {
+        "x": 551.3,
+        "y": 488.27
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.14,
+      "position": {
+        "x": 550.6,
+        "y": 522.34
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.146,
+      "position": {
+        "x": 551.97,
+        "y": 525.78
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.151,
+      "position": {
+        "x": 558.86,
+        "y": 534.13
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.156,
+      "position": {
+        "x": 563.22,
+        "y": 538.12
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.161,
+      "position": {
+        "x": 563.77,
+        "y": 533.19
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "kill_bot",
+      "time_sec": 0.165,
+      "position": {
+        "x": 566.93,
+        "y": 521.33
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.166,
+      "position": {
+        "x": 567.51,
+        "y": 518.13
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.171,
+      "position": {
+        "x": 568.33,
+        "y": 520.11
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "kill_bot",
+      "time_sec": 0.175,
+      "position": {
+        "x": 566.47,
+        "y": 516.85
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.176,
+      "position": {
+        "x": 565.2,
+        "y": 517.33
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.181,
+      "position": {
+        "x": 546.21,
+        "y": 519.74
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.186,
+      "position": {
+        "x": 514.68,
+        "y": 512.91
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.191,
+      "position": {
+        "x": 506.45,
+        "y": 506.7
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "kill_bot",
+      "time_sec": 0.204,
+      "position": {
+        "x": 506.45,
+        "y": 506.7
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.226,
+      "position": {
+        "x": 497.61,
+        "y": 495.3
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.231,
+      "position": {
+        "x": 472.75,
+        "y": 481.62
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.236,
+      "position": {
+        "x": 462.96,
+        "y": 488.88
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.241,
+      "position": {
+        "x": 467.27,
+        "y": 489.84
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.246,
+      "position": {
+        "x": 466.45,
+        "y": 486.4
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.256,
+      "position": {
+        "x": 466.59,
+        "y": 490.53
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.261,
+      "position": {
+        "x": 464.18,
+        "y": 489.43
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.266,
+      "position": {
+        "x": 471.22,
+        "y": 492.26
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.271,
+      "position": {
+        "x": 466.56,
+        "y": 495.59
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.276,
+      "position": {
+        "x": 459.09,
+        "y": 512.54
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.28,
+      "position": {
+        "x": 456.41,
+        "y": 518.88
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.28,
+      "position": {
+        "x": 456.05,
+        "y": 518.72
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.281,
+      "position": {
+        "x": 456.05,
+        "y": 518.72
+      },
+      "player_id": "23f4ebd6-389f-4659-a135-f80b419475cc"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 53,
+    "source_unique_users": 1,
+    "source_files": [
+      "23f4ebd6-389f-4659-a135-f80b419475cc_b332a9a1-6cdf-4d5d-9289-270135ff1af5.nakama-0"
+    ],
+    "kills": 4,
+    "deaths": 1,
+    "loot": 7
+  }
+}

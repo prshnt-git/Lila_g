@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "match_id": "2e235c1a-bbb3-445e-b2fc-eaa34d8fd9e7",
+    "raw_match_id": "2e235c1a-bbb3-445e-b2fc-eaa34d8fd9e7.nakama-0",
+    "map": "AmbroseValley",
+    "dates": [
+      "2026-02-10"
+    ],
+    "duration_sec": 0.691,
+    "players": 1,
+    "human_players": 1,
+    "bot_players": 0,
+    "events": 17,
+    "engagement": 17.0,
+    "combat_intensity": 1.0,
+    "loot_ratio": 0.1176,
+    "quality_score": 3,
+    "quality_tier": "playable",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor"
+    ]
+  },
+  "players": [
+    {
+      "id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8",
+      "type": "human",
+      "path": [
+        {
+          "time_sec": 0.0,
+          "position": {
+            "x": 257.98,
+            "y": 702.31
+          }
+        },
+        {
+          "time_sec": 0.222,
+          "position": {
+            "x": 220.38,
+            "y": 706.2
+          }
+        },
+        {
+          "time_sec": 0.691,
+          "position": {
+            "x": 207.01,
+            "y": 744.88
+          }
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 257.98,
+        "y": 702.31
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.026,
+      "position": {
+        "x": 255.86,
+        "y": 698.2
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.034,
+      "position": {
+        "x": 254.27,
+        "y": 692.76
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.036,
+      "position": {
+        "x": 259.19,
+        "y": 693.64
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.041,
+      "position": {
+        "x": 251.57,
+        "y": 676.71
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.046,
+      "position": {
+        "x": 240.04,
+        "y": 679.92
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.116,
+      "position": {
+        "x": 238.53,
+        "y": 683.69
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.136,
+      "position": {
+        "x": 232.17,
+        "y": 689.96
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "kill_bot",
+      "time_sec": 0.14,
+      "position": {
+        "x": 232.17,
+        "y": 689.96
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.176,
+      "position": {
+        "x": 219.54,
+        "y": 688.82
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.177,
+      "position": {
+        "x": 219.54,
+        "y": 688.82
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.181,
+      "position": {
+        "x": 231.91,
+        "y": 686.28
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.222,
+      "position": {
+        "x": 220.38,
+        "y": 706.2
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.227,
+      "position": {
+        "x": 216.66,
+        "y": 714.93
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.232,
+      "position": {
+        "x": 207.5,
+        "y": 731.94
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.237,
+      "position": {
+        "x": 207.01,
+        "y": 744.88
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    },
+    {
+      "type": "storm_death",
+      "time_sec": 0.691,
+      "position": {
+        "x": 207.01,
+        "y": 744.88
+      },
+      "player_id": "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 17,
+    "source_unique_users": 1,
+    "source_files": [
+      "f3cf6ebd-6ac0-4a78-ad6d-7486010249b8_2e235c1a-bbb3-445e-b2fc-eaa34d8fd9e7.nakama-0"
+    ],
+    "kills": 1,
+    "deaths": 1,
+    "loot": 2
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "match_id": "2dabcfc3-11ea-4f67-80bb-d397bdf1d04c",
+    "raw_match_id": "2dabcfc3-11ea-4f67-80bb-d397bdf1d04c.nakama-0",
+    "map": "AmbroseValley",
+    "dates": [
+      "2026-02-10"
+    ],
+    "duration_sec": 0.12,
+    "players": 0,
+    "human_players": 0,
+    "bot_players": 0,
+    "events": 17,
+    "engagement": 17.0,
+    "combat_intensity": 0.0,
+    "loot_ratio": 0.1176,
+    "quality_score": 2,
+    "quality_tier": "debug_only",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor",
+      "bots_only"
+    ]
+  },
+  "players": [],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 260.48,
+        "y": 702.57
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.025,
+      "position": {
+        "x": 260.72,
+        "y": 699.63
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.04,
+      "position": {
+        "x": 259.46,
+        "y": 696.01
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.041,
+      "position": {
+        "x": 259.48,
+        "y": 696.01
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "loot",
+      "time_sec": 0.044,
+      "position": {
+        "x": 254.82,
+        "y": 691.08
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.046,
+      "position": {
+        "x": 254.81,
+        "y": 691.08
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.051,
+      "position": {
+        "x": 268.85,
+        "y": 682.46
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.056,
+      "position": {
+        "x": 267.52,
+        "y": 656.71
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.061,
+      "position": {
+        "x": 275.89,
+        "y": 635.33
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.081,
+      "position": {
+        "x": 272.04,
+        "y": 616.8
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.086,
+      "position": {
+        "x": 268.88,
+        "y": 594.73
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.091,
+      "position": {
+        "x": 292.66,
+        "y": 583.33
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.096,
+      "position": {
+        "x": 304.64,
+        "y": 581.37
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.101,
+      "position": {
+        "x": 328.66,
+        "y": 577.41
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.106,
+      "position": {
+        "x": 345.93,
+        "y": 573.33
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.111,
+      "position": {
+        "x": 349.83,
+        "y": 566.45
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.12,
+      "position": {
+        "x": 350.11,
+        "y": 567.19
+      },
+      "player_id": "24bd210d-3b53-4f06-acf1-a0e0385641b6"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 17,
+    "source_unique_users": 1,
+    "source_files": [
+      "24bd210d-3b53-4f06-acf1-a0e0385641b6_2dabcfc3-11ea-4f67-80bb-d397bdf1d04c.nakama-0"
+    ],
+    "kills": 0,
+    "deaths": 1,
+    "loot": 2
+  }
+}

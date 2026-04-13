@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "match_id": "1a086d35-8489-4312-8d12-b979536ff0c4",
+    "raw_match_id": "1a086d35-8489-4312-8d12-b979536ff0c4.nakama-0",
+    "map": "AmbroseValley",
+    "dates": [
+      "2026-02-12"
+    ],
+    "duration_sec": 0.133,
+    "players": 0,
+    "human_players": 0,
+    "bot_players": 0,
+    "events": 16,
+    "engagement": 120.3008,
+    "combat_intensity": 0.0,
+    "loot_ratio": 0.0,
+    "quality_score": 3,
+    "quality_tier": "debug_only",
+    "is_recommended": false,
+    "quality_flags": [
+      "no_valid_players",
+      "bots_only",
+      "no_combat_events",
+      "subsecond_window"
+    ]
+  },
+  "players": [],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 724.79,
+        "y": 536.95
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.02,
+      "position": {
+        "x": 718.11,
+        "y": 541.7
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.025,
+      "position": {
+        "x": 711.44,
+        "y": 542.8
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.03,
+      "position": {
+        "x": 681.59,
+        "y": 539.23
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.035,
+      "position": {
+        "x": 683.87,
+        "y": 519.64
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.04,
+      "position": {
+        "x": 661.2,
+        "y": 498.0
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.045,
+      "position": {
+        "x": 644.19,
+        "y": 488.64
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.05,
+      "position": {
+        "x": 619.92,
+        "y": 478.39
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.055,
+      "position": {
+        "x": 592.92,
+        "y": 499.54
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.06,
+      "position": {
+        "x": 580.24,
+        "y": 507.12
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.075,
+      "position": {
+        "x": 575.6,
+        "y": 509.44
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.08,
+      "position": {
+        "x": 565.48,
+        "y": 515.47
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.085,
+      "position": {
+        "x": 550.15,
+        "y": 522.55
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.1,
+      "position": {
+        "x": 563.33,
+        "y": 526.08
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.115,
+      "position": {
+        "x": 561.62,
+        "y": 525.62
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.133,
+      "position": {
+        "x": 558.29,
+        "y": 524.72
+      },
+      "player_id": "ff436bfe-1b54-4098-a248-4bfbe123f3f1"
+    }
+  ],
+  "debug": {
+    "source_rows": 16,
+    "source_unique_users": 1,
+    "source_files": [
+      "ff436bfe-1b54-4098-a248-4bfbe123f3f1_1a086d35-8489-4312-8d12-b979536ff0c4.nakama-0"
+    ],
+    "kills": 0,
+    "deaths": 1,
+    "loot": 0,
+    "unique_event_types": 2,
+    "out_of_bounds_points_before_clamp": 0
+  }
+}

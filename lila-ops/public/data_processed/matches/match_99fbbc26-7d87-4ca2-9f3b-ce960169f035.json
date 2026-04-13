@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "match_id": "99fbbc26-7d87-4ca2-9f3b-ce960169f035",
+    "raw_match_id": "99fbbc26-7d87-4ca2-9f3b-ce960169f035.nakama-0",
+    "map": "Lockdown",
+    "dates": [
+      "2026-02-13"
+    ],
+    "duration_sec": 0.127,
+    "players": 0,
+    "human_players": 0,
+    "bot_players": 0,
+    "events": 6,
+    "engagement": 6.0,
+    "combat_intensity": 0.0,
+    "loot_ratio": 0.0,
+    "quality_score": 2,
+    "quality_tier": "debug_only",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor",
+      "bots_only"
+    ]
+  },
+  "players": [],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 271.47,
+        "y": 321.22
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.025,
+      "position": {
+        "x": 276.44,
+        "y": 325.61
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.031,
+      "position": {
+        "x": 288.93,
+        "y": 332.01
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.036,
+      "position": {
+        "x": 281.97,
+        "y": 316.06
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.046,
+      "position": {
+        "x": 284.09,
+        "y": 319.31
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.127,
+      "position": {
+        "x": 284.09,
+        "y": 319.47
+      },
+      "player_id": "0e070271-33e4-4cb8-9743-81fa26cab07f"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 6,
+    "source_unique_users": 1,
+    "source_files": [
+      "0e070271-33e4-4cb8-9743-81fa26cab07f_99fbbc26-7d87-4ca2-9f3b-ce960169f035.nakama-0"
+    ],
+    "kills": 0,
+    "deaths": 1,
+    "loot": 0
+  }
+}

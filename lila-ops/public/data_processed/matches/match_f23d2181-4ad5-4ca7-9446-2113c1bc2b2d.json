@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "match_id": "f23d2181-4ad5-4ca7-9446-2113c1bc2b2d",
+    "raw_match_id": "f23d2181-4ad5-4ca7-9446-2113c1bc2b2d.nakama-0",
+    "map": "Lockdown",
+    "dates": [
+      "2026-02-12"
+    ],
+    "duration_sec": 0.035,
+    "players": 0,
+    "human_players": 0,
+    "bot_players": 0,
+    "events": 5,
+    "engagement": 5.0,
+    "combat_intensity": 0.0,
+    "loot_ratio": 0.0,
+    "quality_score": 2,
+    "quality_tier": "debug_only",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor",
+      "bots_only"
+    ]
+  },
+  "players": [],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 384.08,
+        "y": 425.31
+      },
+      "player_id": "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.025,
+      "position": {
+        "x": 391.67,
+        "y": 423.36
+      },
+      "player_id": "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.03,
+      "position": {
+        "x": 414.43,
+        "y": 427.94
+      },
+      "player_id": "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.033,
+      "position": {
+        "x": 417.32,
+        "y": 426.87
+      },
+      "player_id": "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79"
+    },
+    {
+      "type": "nan",
+      "time_sec": 0.035,
+      "position": {
+        "x": 417.32,
+        "y": 426.87
+      },
+      "player_id": "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 5,
+    "source_unique_users": 1,
+    "source_files": [
+      "b69ca9d6-d27d-4a61-b6d8-6e747cee8f79_f23d2181-4ad5-4ca7-9446-2113c1bc2b2d.nakama-0"
+    ],
+    "kills": 0,
+    "deaths": 1,
+    "loot": 0
+  }
+}

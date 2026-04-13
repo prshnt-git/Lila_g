@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "match_id": "85f53074-77ee-4b30-b5e4-68fe107e054f",
+    "raw_match_id": "85f53074-77ee-4b30-b5e4-68fe107e054f.nakama-0",
+    "map": "AmbroseValley",
+    "dates": [
+      "2026-02-10"
+    ],
+    "duration_sec": 0.013,
+    "players": 0,
+    "human_players": 0,
+    "bot_players": 0,
+    "events": 2,
+    "engagement": 2.0,
+    "combat_intensity": 0.0,
+    "loot_ratio": 0.0,
+    "quality_score": 1,
+    "quality_tier": "debug_only",
+    "is_recommended": false,
+    "quality_flags": [
+      "very_short_match",
+      "solo_or_single_actor",
+      "low_event_count",
+      "bots_only"
+    ]
+  },
+  "players": [],
+  "events": [
+    {
+      "type": "nan",
+      "time_sec": 0.0,
+      "position": {
+        "x": 302.33,
+        "y": 901.9
+      },
+      "player_id": "94d042cb-a0f2-45f3-bdca-42fab73cfef5"
+    },
+    {
+      "type": "death_by_bot",
+      "time_sec": 0.013,
+      "position": {
+        "x": 302.33,
+        "y": 901.9
+      },
+      "player_id": "94d042cb-a0f2-45f3-bdca-42fab73cfef5"
+    }
+  ],
+  "debug": {
+    "out_of_bounds_points_before_clamp": 0,
+    "source_rows": 2,
+    "source_unique_users": 1,
+    "source_files": [
+      "94d042cb-a0f2-45f3-bdca-42fab73cfef5_85f53074-77ee-4b30-b5e4-68fe107e054f.nakama-0"
+    ],
+    "kills": 0,
+    "deaths": 1,
+    "loot": 0
+  }
+}
