@@ -1,4 +1,4 @@
-# LILA Player Ops
+<img width="1859" height="867" alt="image" src="https://github.com/user-attachments/assets/d51c2dcb-bb98-4c5f-ab16-a3ec59aa2995" /># LILA Player Ops
 
 A web-based player journey visualization tool built for LILA Games’ Level Design team.
 
@@ -14,7 +14,8 @@ This project turns raw gameplay telemetry from **LILA BLACK** into a browser-bas
 ## Live Demo
 
 `https://lila-g.vercel.app/`
-![alt text](image.png)
+<img width="1859" height="867" alt="image" src="https://github.com/user-attachments/assets/3fe6a960-af79-45ec-9da8-b3f0e5619c62" />
+
 
 ## What’s included
 
