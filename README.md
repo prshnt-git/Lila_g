@@ -13,7 +13,8 @@ This project turns raw gameplay telemetry from **LILA BLACK** into a browser-bas
 
 ## Live Demo
 
-**Deployed URL:** `PASTE_YOUR_DEPLOYED_URL_HERE`
+`https://lila-g.vercel.app/`
+![alt text](image.png)
 
 ## What’s included
 
